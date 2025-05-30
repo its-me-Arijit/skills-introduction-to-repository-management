@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @its-me-Arijit
+/src/backend/database.py      @its-me-Arijit
+/src/backend/routers/auth.py  @its-me-Arijit
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @its-me-Arijit
